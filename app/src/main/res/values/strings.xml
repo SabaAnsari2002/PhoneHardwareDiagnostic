@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Phone Hardware Diagnostic (عیب‌یابی سخت‌افزار گوشی)</string>
+    <string name="dashboard">Dashboard (داشبورد)</string>
+    <string name="quick_scan">Quick scan (اسکن سریع)</string>
+    <string name="all_tests">All tests (همه تست‌ها)</string>
+    <string name="history">History (تاریخچه)</string>
+    <string name="compare">Compare reports (مقایسه گزارش‌ها)</string>
+    <string name="settings">Settings (تنظیمات)</string>
+    <string name="privacy">Privacy (حریم خصوصی)</string>
+    <string name="start">Start test (شروع تست)</string>
+    <string name="cancel">Cancel (لغو)</string>
+    <string name="save">Save (ذخیره)</string>
+    <string name="no_results">No saved results yet (هنوز نتیجه‌ای ذخیره نشده است)</string>
+    <string name="permissions_explanation">Permissions are requested only when needed for a selected test. (دسترسی‌ها تنها در صورت نیاز برای تست انتخابی درخواست می‌شوند.)</string>
+</resources>
